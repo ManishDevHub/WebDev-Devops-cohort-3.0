@@ -21,3 +21,4 @@ Notes for package.json file :
   }
     - Developer speciifed script - isko hm apne hisb se likh skte like test ke jgah start and us start pe - "start": node index.mjs; jo jaise hi npm run start krenge toh woh file run hoga agar hmlg ekdm sahi folder mein honge toh!
 
+more to come.
