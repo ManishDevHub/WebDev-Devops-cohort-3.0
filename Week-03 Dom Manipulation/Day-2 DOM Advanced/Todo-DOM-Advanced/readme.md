@@ -1,1 +1,1 @@
-## Basic TODO web app using the concepts of states and components in JS
+## Basic TODO web app using the concepts of states and components in Java Script 
