@@ -32,7 +32,8 @@ app.get("/ride1"), function(req, res){          //// http://localhost:3000/ride2
 }
 
 
-app.listen(3000);       //And this will start the server at port 3000
+app.listen(3000 ,(
+console.log("port listen on localhost:3000")));       //And this will start the server at port 3000
 
 
 /*
